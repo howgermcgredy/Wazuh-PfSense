@@ -29,6 +29,7 @@
   </rule>
 </group>
 
+
 3. 偵測成果 (Detection Results)
 成功在 Wazuh Dashboard 偵測到防火牆的登入與操作事件。
 
