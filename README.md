@@ -33,6 +33,7 @@
 成功在 Wazuh Dashboard 偵測到防火牆的登入與操作事件。
 
 ## 未來展望：自動化回應 (Active Response)
+
 # Wazuh-PfSense
 若要達成「自動阻擋」，計畫在 Wazuh 配置 Active Response 腳本，透過 SSH Key 連線至 pfSense 執行 easyrule block <Src_IP>，實現 IP 自動封鎖。
 1. 設定檔提取
